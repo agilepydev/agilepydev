@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">A passionate Data Scientist from Belgium</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agilepydev" alt="agilepydev" /></a> </p>
+
 - 🔭 I’m currently working on **Connecting Expertise (An NLP project)**
 
 - 👨‍💻 All of my projects are available at [https://agilepydev.github.io/](https://agilepydev.github.io/)
@@ -23,4 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilepydev&show_icons=true&locale=en&layout=compact" alt="agilepydev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agilepydev&show_icons=true&locale=en" alt="agilepydev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agilepydev&" alt="agilepydev" /></p>
+
 
