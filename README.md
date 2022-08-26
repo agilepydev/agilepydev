@@ -15,6 +15,13 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/maryamelb](www.linkedin.com/in/maryamelb)
 
+### BeCode Portfolio:
+- [Knowledge graph for Reuters dataset (spaCy, WikiData, Neo4j)](https://github.com/agilepydev/Entity-Recognition)
+- [Steam games sales analytics - deployment (SQL database, Flask, Docker, Heroku)](https://github.com/agilepydev/deployment-demo)
+- [Anomalous sound detection for predictive maintenance of industrial machines - unsupervised learning](https://github.com/agilepydev/brAIn-individual-)
+- [Anomalous sound detection for predictive maintenance of industrial machines - supervised learning](https://github.com/agilepydev/brAIn)
+- [3D houses (handling geospatial data, API calls)](https://github.com/agilepydev/3D-House)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maryamelb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamelb" height="30" width="40" /></a>
