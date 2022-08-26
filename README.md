@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ikmaryam@hotmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/maryamelb](www.linkedin.com/in/maryamelb)
+- 📄 Know about my experiences [www.linkedin.com/in/maryamelb](https://www.linkedin.com/in/maryamelb/)
 
 ### BeCode Portfolio:
 - [Knowledge graph for Reuters dataset (spaCy, WikiData, Neo4j)](https://github.com/agilepydev/Entity-Recognition)
