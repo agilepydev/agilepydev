@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/maryamelb](https://www.linkedin.com/in/maryamelb/)
 
-### BeCode Portfolio:
+### Some projects:
 - [Knowledge graph for Reuters dataset (spaCy, WikiData, Neo4j)](https://github.com/agilepydev/Entity-Recognition)
 - [Steam games sales analytics - deployment (SQL database, Flask, Docker, Heroku)](https://github.com/agilepydev/deployment-demo)
 - [Anomalous sound detection for predictive maintenance of industrial machines - unsupervised learning](https://github.com/agilepydev/brAIn-individual-)
