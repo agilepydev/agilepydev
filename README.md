@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maryam :)</h1>
+<h1 align="center">Hi, :)</h1>
 <h3 align="center">A passionate Data Scientist from Belgium</h3>
 
 ## 🏆 GitHub Trophies
