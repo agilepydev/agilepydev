@@ -37,8 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilepydev&show_icons=true&locale=en&layout=compact" alt="agilepydev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agilepydev&show_icons=true&locale=en" alt="agilepydev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agilepydev&" alt="agilepydev" /></p>
 
 
