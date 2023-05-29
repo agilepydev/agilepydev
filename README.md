@@ -1,7 +1,6 @@
 <h1 align="center">Hi, :)</h1>
 <h3 align="center">A passionate Data Scientist from Belgium</h3>
 
-## 🏆 GitHub Trophies
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -25,7 +24,6 @@
 - [Anomalous sound detection for predictive maintenance of industrial machines - supervised learning](https://github.com/agilepydev/brAIn)
 - [3D houses (handling geospatial data, API calls)](https://github.com/agilepydev/3D-House)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
