@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Connecting Expertise (An NLP project at Ausy Belgium)**
 
-- 👨‍💻 All of my projects are available at [https://agilepydev.github.io/](https://agilepydev.github.io/)
+- 👨‍💻 Take a look at some of my projects [https://agilepydev.github.io/](https://agilepydev.github.io/)
 
 - 💬 Ask me about **Machine Learning, Data Engineering, Google Cloud**
 
